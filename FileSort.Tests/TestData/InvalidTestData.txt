@@ -1,0 +1,3 @@
+Skywalker , Luke , Jedi
+Kenobi , Obi-Wan , Jedi
+Skywalker , Leah , Resistance
