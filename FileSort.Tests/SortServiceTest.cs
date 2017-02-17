@@ -24,6 +24,7 @@ namespace FileSort.Tests
         [TestInitialize]
         public void Setup()
         {
+			//IoC container to resolve the service
             Bootstrap.Register();
             _sortService = TinyIoC.TinyIoCContainer.Current.Resolve<ISortService>();
 
